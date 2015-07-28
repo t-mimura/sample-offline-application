@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+# 2015/07/28 12:33 v00.00.01
+
+CACHE:
+
+./index.html
+./morning.html
+./night.html
+
+./js/app.js
+
+./favicon.ico
+
+
+NETWORK:
+*
+
